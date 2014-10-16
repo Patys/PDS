@@ -1,0 +1,54 @@
+
+body {
+	background: linear-gradient(#66ffdd, #00aadd);
+	background-repeat: no-repeat;
+	
+    background-attachment: fixed;
+}
+
+.nav {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.header {
+	padding-left: 100px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.header h1{
+	font-size: 64px;
+}
+
+.content {
+	padding-left: 20px;
+	padding-top: 50px;
+}
+
+.content h2{
+	font-size: 32px;
+}
+
+.content p{
+	font-size: 20px;
+}
+
+.footer {
+	padding-left: 35%;
+	padding-top: 100px;
+	padding-bottom: 15px;
+	position: relative;
+}
+
+.links p{
+	text-align: center;
+}
+
+.links a:link{
+	color: #FFFFFF;
+}
+
+.links a:visited{
+	color: #FFFFFF;
+}
