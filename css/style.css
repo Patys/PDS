@@ -1,6 +1,9 @@
 
 body {
-	background: linear-gradient(#66ffdd, #005555);
+	background: linear-gradient(#66ffdd, #00aadd);
+	background-repeat: no-repeat;
+	
+    background-attachment: fixed;
 }
 
 .nav {
@@ -44,13 +47,11 @@ body {
 .content h2{
 	text-align: center;
 	font-size: 32px;
-	color: #ffffff;
 }
 
 .content p{
 	text-align: center;
 	font-size: 20px;
-	color: #ffffff;
 }
 
 .footer {
